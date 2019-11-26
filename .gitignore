@@ -1,0 +1,5 @@
+# Ignore the node_modules
+/babel_project/node_modules/
+/node_modules/
+/node_practice/node_modules/
+/SequelizeExample/node_modules/
